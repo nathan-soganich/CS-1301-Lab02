@@ -5,7 +5,8 @@
 import streamlit as st
 import json
 import random
-
+import Survey
+import Visuals
 # st.set_page_config() is used to configure the page's appearance in the browser tab.
 # It's good practice to set this as the first Streamlit command in your script.
 st.set_page_config(
