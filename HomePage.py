@@ -5,8 +5,7 @@
 import streamlit as st
 import json
 import random
-import Survey
-import Visuals
+
 # st.set_page_config() is used to configure the page's appearance in the browser tab.
 # It's good practice to set this as the first Streamlit command in your script.
 st.set_page_config(
@@ -28,6 +27,7 @@ You can navigate to the different pages using the sidebar on the left.
 
 This project is part of CS 1301's Lab 2.
 """)
+
 
 # OPTIONAL: ADD AN IMAGE
 # 1. Navigate to the 'images' folder in your Lab02 directory.
